@@ -21,11 +21,9 @@ Download the Anaconda Distribution from [here](https://www.anaconda.com/distribu
 First git clone the project in your local machine directory.
 Next download the the pre-trained models from the link above and save them in the following path:
 
-**ResNet50.h5** -> 
-`<\Deep-Learning Labs\03. Convolutional Neural Networks\13. Residual Networks>`
+**ResNet50.h5** -> ```\Deep-Learning Labs\03. Convolutional Neural Networks\13. Residual Networks>```
 
-**yolo.h5** -> 
->.\Deep-Learning Labs\03. Convolutional Neural Networks\14. Autonomous driving application Car detection\model_data
+**yolo.h5** -> ```.\Deep-Learning Labs\03. Convolutional Neural Networks\14. Autonomous driving application Car detection\model_data```
 
 **imagenet-vgg-verydeep-19.mat** -> 
 ```.\Deep-Learning Labs\03. Convolutional Neural Networks\16. Art Generation with Neural Style Transfer\pretrained-model```
