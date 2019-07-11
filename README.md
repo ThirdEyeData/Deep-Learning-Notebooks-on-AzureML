@@ -8,9 +8,9 @@ In order to run these notebooks in your local machine, install [anaconda](https:
 Anaconda is an open source distribution and is the easiest way to perform Python/R data science and machine learning on Linux, Windows and Mac OS X. It is industry standard for developing, testing ad training on a single machine.
 
 There are also a few pre-trained model which is required to run a few notebooks, the download links for those files are mentioned below:
-* [ResNet50.h5](https://drive.google.com/open?id=1M3OfxOakMoBtksAvA-BpY--M6k-lB9HS)
-* [yolo.h5](https://drive.google.com/file/d/13eWGOPJ7BoooCx0bT1qPo0yDoiaUR8Kv/view?usp=sharing)
-* [imagenet-vgg-verydeep-19.mat](https://drive.google.com/file/d/1Yy4m9eY_0KB_cXQGywZk3NtH4ntAMtzg/view?usp=sharing)
+* [ResNet50.h5](https://thirdeyebigdata-my.sharepoint.com/:u:/g/personal/djdas_onthirdeye_com/EYfA1jaIu5xPsTQzj_0CWBkBCAQH9_R-ssAL9SnAnzB0UQ?e=K33vZO)
+* [yolo.h5](https://thirdeyebigdata-my.sharepoint.com/:u:/g/personal/djdas_onthirdeye_com/EbS4VgLf-HtPmi_91Qf_Z4sB7LMq85uzHKzcaQEEEvCG5w?e=CGkQf5)
+* [imagenet-vgg-verydeep-19.mat](https://thirdeyebigdata-my.sharepoint.com/:u:/g/personal/djdas_onthirdeye_com/EXcs66kOWtpFllRDQtT0WdYBS11x5dlt_5_LWoA_QUNWSw?e=YCsHRU)
 
 ## Installing
 
