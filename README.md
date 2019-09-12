@@ -1,6 +1,6 @@
-# Deeplearning Tutorial Notebooks
+# Deep Learning Notebooks on AzureML
 
-This project contains Deep-learning tutorials notebooks from the assignments of course deeplearning.ai in Coursera
+This project contains Deep-learning tutorials notebooks from the assignments of the DeepLearning.ai courses in Coursera.
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ Next download the the pre-trained models from the link above and save them in th
 ### Windows
 
 If you are using a Windows OS, 
-1. From the Start menu, search for and open “Anaconda Prompt".
+1. From the Start menu, search for and open â€œAnaconda Prompt".
 2. cd to the project directory.
 3. type 'jupyter notebook'.
 4. Jupyter notebook open in your default browser.
